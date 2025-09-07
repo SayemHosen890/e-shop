@@ -1,6 +1,6 @@
 import image1 from "./Images/boot1.jpg"
 import image2 from "./Images/sandle.jpg"
-import image3 from "./Images/shirt.jpg"
+import image3 from "./Images/headphone.jpg"
 import image5 from "./Images/wwatch.jpg"
 import image4 from "./Images/watch.jpg"
 import image6 from "./Images/robot.jpg"
