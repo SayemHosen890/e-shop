@@ -60,6 +60,15 @@ const Footer = () => {
           </form>
         </div>
       </div>
+      <div className="mt-8 border-t border-gray-400 pt-5">
+        <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
+          <p>&copy; 2025 E-Shop All Right Reserve.</p>
+          <div className="flex mt-4 md:mt-0 space-x-5">
+            <a href="" className="hover:underline">Privacy Policy</a>
+            <a href="" className="hover:underline">Terms & Conditions</a>
+          </div>
+        </div>
+      </div>
     </footer>
   );
 };
